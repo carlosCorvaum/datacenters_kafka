@@ -1,6 +1,6 @@
 # Descomplicando Kafka com Java, Docker e Kafdrop (Parte 1)
 
-Este repositório contém o código-fonte do guia "Descomplicando Kafka", que demonstra os conceitos fundamentais do Apache Kafka de forma prática.
+Este repositório contém o código-fonte do guia "Descomplicando Kafka (Parte 1)", que demonstra os conceitos fundamentais do Apache Kafka de forma prática.
 
 ## 🎯 Caso de Uso: Monitoramento de Temperatura de um Data Center
 
