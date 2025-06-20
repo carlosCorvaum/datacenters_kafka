@@ -35,8 +35,8 @@ O projeto simula um sistema que monitora a temperatura de uma sala de servidores
 ## 🚀 Configurando o Ambiente
 
 O ambiente é orquestrado usando Docker Compose. O arquivo `docker-compose.yml` configura os seguintes serviços:
-- **`broker`**: broker kraft
-- **`kafdrop`**: A interface de visualização, acessível em `http://localhost:9000`.
+- **`broker`**: Broker kraft
+- **`kafdrop`**: interface de visualização, acessível em `http://localhost:9000`.
 
 Para iniciar o ambiente, execute:
 ```sh
