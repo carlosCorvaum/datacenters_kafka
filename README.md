@@ -35,7 +35,7 @@ O projeto simula um sistema que monitora a temperatura de uma sala de servidores
 ## 🚀 Configurando o Ambiente
 
 O ambiente é orquestrado usando Docker Compose. O arquivo `docker-compose.yml` configura os seguintes serviços:
-- **`broker`**: Uma instância do Kafka rodando em modo KRaft (sem Zookeeper).
+- **`broker`**: broker kraft
 - **`kafdrop`**: A interface de visualização, acessível em `http://localhost:9000`.
 
 Para iniciar o ambiente, execute:
